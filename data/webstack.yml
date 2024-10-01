@@ -5,7 +5,7 @@
   links: 
     - title: YouTube
       logo: 
-      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
+      url: https://www.youtube.com/
       description: 一个专注于软件安装，科学上网教学的频道！
     - title: 资源博客
       qrcode: images/qrcodes/bk.png
@@ -17,9 +17,6 @@
       logo: images/logos/HQBS.png
       url: https://universalbus.cn?s=gB8CJKmJdd
       description: 流媒体影音账号合租平
-    - title: 虚拟信用卡
-      url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
-      description: 支付宝、微信充值，海外消费。
     - title: 美国虚拟卡
       qrcode: images/qrcodes/usdt.png
       logo:
@@ -51,13 +48,13 @@
       description: UUID在线生成
     
 
-- taxonomy: 社区咨询
+- taxonomy: 苹果IOS软件下载
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
+    - title: 小昕软件园
+      logo: 
+      url: https://pan.iosxin.top/
+      description: 巨魔软件 破解软件 各类软件下载
     - title: 36kr
       logo: images/logos/36kr.png
       url: https://36kr.com/
